@@ -20,7 +20,7 @@
 		<meta name="keywords" content="" />
 		<meta name="author" content="humans.txt">
 		
-		<link rel="shortcut icon" href="<?php echo $theme_folder; ?>/favicon.png" type="image/x-icon" />
+		<link rel="shortcut icon" href="<?php echo $theme_folder; ?>/favicon.ico" type="image/x-icon" />
 		
 		<!-- Facebook Metadata /-->
 		<meta property="fb:page_id" content="" />
